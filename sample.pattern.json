@@ -1,5 +1,5 @@
 [{
-	"name": "Sample Pattern",
+    "name": "Sample Pattern",
     "pattern": "\\xDE\\xAD\\xBE\\xEF.+?\\xDE\\xAD\\xBE\\xEF",
     "data": "DE, AD, BE, EF",
     "options": {
